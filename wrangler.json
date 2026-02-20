@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "geminibuddy-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9b337776-2d4b-49d5-bd0a-0e40ec3e01ac",
+			"database_name": "geminibuddy-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
